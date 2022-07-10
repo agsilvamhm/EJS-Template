@@ -1,2 +1,2 @@
-# EJS-Template
-Projeto StartSe - Tech Academy, Utilização de EJS
+# Aula-20
+ StartSe - Utilizando templates EJS
